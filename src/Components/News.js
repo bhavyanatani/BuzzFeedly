@@ -51,12 +51,12 @@ const News = (props)=>{
         let data = await fetch(url);
         let parsedData = await data.json()
         
-        if(parsedData.articles && parsedData.totalArticles) {
+        // Check if we received any new articles
+        if(parsedData.articles && parsedData.articles.length > 0) {
             setArticles(articles.concat(parsedData.articles))
             setTotalResults(parsedData.totalArticles)
-            setHasMoreArticles(articles.length + parsedData.articles.length < parsedData.totalArticles)
         } else {
-            console.error('API Error in fetchMoreData:', parsedData)
+            // No more articles available
             setHasMoreArticles(false)
         }
       };
