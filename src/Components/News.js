@@ -17,15 +17,20 @@ const News = (props)=>{
 
     const updateNews = async ()=> {
         props.setProgress(10);
-        const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`; 
+        const url = `https://gnews.io/api/v4/top-headlines?category=${props.category}&lang=en&country=${props.country}&max=${props.pageSize}&apikey=${props.apiKey}`; 
         setLoading(true)
         let data = await fetch(url);
         props.setProgress(30);
         let parsedData = await data.json()
         props.setProgress(70);
-        setArticles(parsedData.articles)
-        setTotalResults(parsedData.totalResults)
-        setLoading(false)
+        if(parsedData.articles && parsedData.totalArticles) {
+            setArticles(parsedData.articles)
+            setTotalResults(parsedData.totalArticles)
+            setLoading(false)
+        } else {
+            console.error('API Error:', parsedData)
+            setLoading(false)
+        }
         props.setProgress(100);
     }
 
@@ -41,17 +46,17 @@ const News = (props)=>{
     const [hasMoreArticles, setHasMoreArticles] = useState(true);
 
     const fetchMoreData = async () => {   
-        const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
+        const url = `https://gnews.io/api/v4/top-headlines?category=${props.category}&lang=en&country=${props.country}&max=${props.pageSize}&apikey=${props.apiKey}`
         setPage(page+1) 
         let data = await fetch(url);
         let parsedData = await data.json()
         
-        // Check if we received any new articles
-        if(parsedData.articles && parsedData.articles.length > 0) {
+        if(parsedData.articles && parsedData.totalArticles) {
             setArticles(articles.concat(parsedData.articles))
-            setTotalResults(parsedData.totalResults)
+            setTotalResults(parsedData.totalArticles)
+            setHasMoreArticles(articles.length + parsedData.articles.length < parsedData.totalArticles)
         } else {
-            // No more articles available
+            console.error('API Error in fetchMoreData:', parsedData)
             setHasMoreArticles(false)
         }
       };
@@ -74,7 +79,7 @@ const News = (props)=>{
                     <div className="row">
                         {articles.map((element) => {
                             return <div className="col-md-4" key={element.url}>
-                                <NewsItem title={element.title ? element.title : ""} description={element.description ? element.description : ""} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
+                                <NewsItem title={element.title ? element.title : ""} description={element.description ? element.description : ""} imageUrl={element.image} newsUrl={element.url} date={element.publishedAt} source={element.source.name} />
                             </div>
                         })}
                     </div>

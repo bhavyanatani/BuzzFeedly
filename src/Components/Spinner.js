@@ -1,4 +1,3 @@
-import React, { Component } from 'react'
 import loader from './loader.gif'
 
 

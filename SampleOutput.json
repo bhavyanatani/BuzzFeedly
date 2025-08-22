@@ -1,36 +1,165 @@
 {
-  "status": "ok",
-  "totalResults": 3,
+  "totalArticles": 294382,
   "articles": [
     {
-      "source": { "id": "bbc-sport", "name": "BBC Sport" },
-      "author": null,
-      "title": "England vs India: 'Fifth Test finale is most intense, dramatic and emotional sport'",
-      "description": "The fifth Test finale between England and India at The Oval was the most intense, dramatic and emotional sport you could see, says chief cricket reporter Stephan Shemilt.",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/crm4j8424epo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a6f8/live/c1a304d0-713f-11f0-89ea-4d6f9851f623.jpg",
-      "publishedAt": "2025-08-04T16:07:16.1652206Z",
-      "content": "Inside the JM Finn Stand at The Oval, opposite the pavilion, is a staircase that leads up to the Test Match Special commentary box. It is used by media and spectators alike.\r\nIn the hours after the s… [+1722 chars]"
+      "id": "8adf46c4386592fd77b401416240bf06",
+      "title": "Canada to drop many of its retaliatory tariffs on the US",
+      "description": "The move comes after the two countries blew past a self-imposed deadline to reach a trade agreement.",
+      "content": "Canada to drop many of its retaliatory tariffs on the US\nCanada is one of two countries - China being the other - to have placed retaliatory tariffs on the US.\nThe tax hike was in retaliation to the US tariffs on Canada, which as of August are valued... [2905 chars]",
+      "url": "https://www.bbc.com/news/articles/c5yk9dqlvygo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b9d2/live/17fc37d0-7f72-11f0-8844-df46f3a0217b.jpg",
+      "publishedAt": "2025-08-22T16:58:40Z",
+      "lang": "en",
+      "source": {
+        "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+        "name": "BBC",
+        "url": "https://www.bbc.com",
+        "country": "us"
+      }
     },
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
-      "author": null,
-      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-      "publishedAt": "2020-04-27T11:41:47Z",
-      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      "id": "ce7ea54251d446dde3cdb7cc174e0a81",
+      "title": "Commanders to trade Brian Robinson to 49ers: How he bolsters team’s running back room",
+      "description": "Robinson, 26, led the Commanders' running backs in rushing yards in each of his three seasons with the team.",
+      "content": "By Nicki Jhabvala, Dianna Russini and Matt Barrows\nASHBURN, Va. — In a move that reshapes their rushing corps just weeks before the season opener, the Washington Commanders agreed on Friday to trade running back Brian Robinson Jr. to the San Francisc... [5680 chars]",
+      "url": "https://www.nytimes.com/athletic/6564755/2025/08/22/brian-robinson-commanders-49ers-trade/",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2023/12/15134040/GettyImages-1737390483.jpg?width=1200&height=630&fit=cover",
+      "publishedAt": "2025-08-22T16:54:09Z",
+      "lang": "en",
+      "source": {
+        "id": "2f580dc49292a1caf59cd86dd3c9e60b",
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com",
+        "country": "us"
+      }
     },
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
-      "author": null,
-      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-      "publishedAt": "2020-03-30T15:26:05Z",
-      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      "id": "21dc55f137642618cdfd6f7730df766d",
+      "title": "Baby Emmanuel Haro's parents arrested on suspicion of murder amid search for missing 7-month-old boy",
+      "description": "The parents of 7-month-old Emmanuel Haro were arrested just over a week after the baby was reported kidnapped in Yucaipa, authorities said.",
+      "content": "Baby Emmanuel Haro's parents arrested on suspicion of murder amid search for missing 7-month-old boy\nThe parents of 7-month-old Emmanuel Haro were arrested just over a week after the baby's mother reported him kidnapped in Yucaipa, authorities said.\n... [2778 chars]",
+      "url": "https://abc7.com/post/emmanuel-haro-disappearance-authorities-conduct-operation-cabazon-home-baby-allegedly-kidnapped-yucaipa/17614509/",
+      "image": "https://cdn.abcotvs.com/dip/images/17579996_081825-kabc-yucaipa-missing-baby-tn-img.jpg?w=1600",
+      "publishedAt": "2025-08-22T16:17:07Z",
+      "lang": "en",
+      "source": {
+        "id": "e8558fd2479027f3073a0b5be434a244",
+        "name": "ABC7 Los Angeles",
+        "url": "https://abc7.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "6f6bf062356f0524e8b86653b17d71c5",
+      "title": "Canada drops many of its retaliatory tariffs on the U.S.",
+      "description": "Canada announced Friday it was dropping many of its retaliatory tariffs on U.S. goods, though the 25% counter-tariff on autos, steel and aluminum remains.",
+      "content": "Canada removed many of its retaliatory tariffs on the U.S. on Friday, marking a significant step forward in the two countries' relationship.\nCanada in March imposed counter-tariffs of 25% on a long list of U.S. products that fall in line with the Nor... [734 chars]",
+      "url": "https://www.cnbc.com/2025/08/22/canada-retaliatory-tariffs-trump-autos-steel.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108179440-17539145922025-07-30t222740z_393045148_rc29xfah270l_rtrmadp_0_israel-palestinians-canada.jpeg?v=1753914615&w=1920&h=1080",
+      "publishedAt": "2025-08-22T16:16:56Z",
+      "lang": "en",
+      "source": {
+        "id": "32c2ad3fb41cb87b5b847d750028dff0",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "fbbc19240ee9e6b243a327a6fd4d3685",
+      "title": "Hegseth orders National Guard troops in DC to carry weapons",
+      "description": "Defense Secretary Pete Hegseth has ordered National Guard members patrolling the streets of Washington, DC, to begin carrying their service weapons as they fulfill President Donald Trump’s crime crackdown in the nation’s capital, according to a US defense official.",
+      "content": "Federal agencies US military Pete Hegseth National security See all topics Follow\nDefense Secretary Pete Hegseth has ordered National Guard members patrolling the streets of Washington, DC, to begin carrying their service weapons as they fulfill Pres... [1392 chars]",
+      "url": "https://www.cnn.com/2025/08/22/politics/hegseth-orders-national-guard-troops-dc-carry-weapons",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2230504507.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-08-22T15:44:00Z",
+      "lang": "en",
+      "source": {
+        "id": "b7f8938851261c8403f75f40eb1d8645",
+        "name": "CNN",
+        "url": "https://www.cnn.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "bb8230d4561abe83753c21c3b6828031",
+      "title": "Royal Mail and DHL halt some US deliveries over tariffs",
+      "description": "Services including Royal Mail and DHL say they are suspending deliveries until they have proper systems in place.",
+      "content": "Royal Mail and DHL halt some US deliveries over tariffs\nPostal services, including Royal Mail and Germany's DHL, said they would suspend deliveries until they had proper systems in place to deal with the new rules.\nWhile gifts worth less than $100 wi... [3467 chars]",
+      "url": "https://www.bbc.com/news/articles/cx2p17xypgko",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f5ce/live/d567fd50-7f62-11f0-9b45-d97edf6817de.jpg",
+      "publishedAt": "2025-08-22T15:38:48Z",
+      "lang": "en",
+      "source": {
+        "id": "f331a5ed3965fb59761dfcecfc7e7a34",
+        "name": "BBC",
+        "url": "https://www.bbc.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "45503c1bf8a794f06773ac02204c5881",
+      "title": "2025 Tour Championship leaderboard live updates: Golf scores, Round 2 coverage of FedEx Cup Playoffs finale",
+      "description": "Live scores, updates and highlights from the second round of the Tour Championship in Atlanta",
+      "content": "An unexpectedly quick turnaround should make for an interesting second day at the 2025 Tour Championship as the 30 best golfers on the PGA Tour this year compete for the season-long FedEx Cup crown. Inclement weather expected later Friday pushed Roun... [818 chars]",
+      "url": "https://www.cbssports.com/golf/news/tour-championship-leaderboard-live-updates-2025-fedex-cup-playoffs-friday/live/",
+      "image": "https://sportshub.cbsistatic.com/i/r/2025/08/22/2146314e-e185-48bb-a496-0b69dfe590af/thumbnail/1200x675/81e8223b53dc6b255a0ae61d1421a2cd/scottie-scheffler-sand-tour-g.jpg",
+      "publishedAt": "2025-08-22T15:38:20Z",
+      "lang": "en",
+      "source": {
+        "id": "416e66c8ea979965c0cee3b0ed1f714b",
+        "name": "CBS Sports",
+        "url": "https://www.cbssports.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "29d24e6d1e5428be3fc4bdd5874d79c1",
+      "title": "At This Point, It’s Impossible to Know What the Trump Phone Looks Like",
+      "description": "Despite accepting preorders and promising that “the wait is almost over,” Trump Mobile doesn’t seem any closer to proving the T1 Phone actually exists.",
+      "content": "It's been over two months since Trump Mobile announced the T1 Phone was being “Made in the USA” designed “with American values in mind,” and it seems that anyone deciding to preorder it still can’t be sure exactly what phone they might receive.\nIn po... [2145 chars]",
+      "url": "https://www.wired.com/story/trump-phone-t1-samsung-spigen/",
+      "image": "https://media.wired.com/photos/68a8591b65bd721ff6057969/191:100/w_1280,c_limit/GettyImages-2219715617.jpg",
+      "publishedAt": "2025-08-22T15:08:24Z",
+      "lang": "en",
+      "source": {
+        "id": "6036b9272b66a58d0545f8d039247dd4",
+        "name": "WIRED",
+        "url": "https://www.wired.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "a8a078f69290a78e71d7214996ad92bc",
+      "title": "FBI searching former Trump adviser John Bolton's home",
+      "description": "Federal agents were seen Friday morning searching the Maryland residence of former Trump national security adviser John Bolton, ABC News has learned.",
+      "content": "Federal agents were seen Friday morning outside of his residence.\nAn FBI agent speaks with a person at the entrance of John Bolton's house, the former national security advisor to Donald Trump, after conducting a court-authorized search of his reside... [3154 chars]",
+      "url": "https://abcnews.go.com/US/fbi-searching-john-boltons-home-sources/story?id=124874729",
+      "image": "https://i.abcnewsfe.com/a/498f3bcf-f1f2-41aa-a31a-727501a780ff/john-bolton-11-gty-gmh-250822_1755868509912_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-08-22T15:03:03Z",
+      "lang": "en",
+      "source": {
+        "id": "5ca536331c246cd7f693cdb2cceaff8c",
+        "name": "ABC News",
+        "url": "https://abcnews.go.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "16e1cf5904b8769dc9a7ad11fa1be4e6",
+      "title": "New dinosaur species with striking sail-like back discovered",
+      "description": "Paleontologists have discovered a new dinosaur species with a very distinctive feature, a sail-like structure running down its back, the Natural History Museum in London announced on Friday.",
+      "content": "Animal stories Ancient creatures See all topics Follow\nPaleontologists have discovered a new dinosaur species with a very distinctive feature, a sail-like structure running down its back, the Natural History Museum in London announced on Friday.\nThe ... [2787 chars]",
+      "url": "https://www.cnn.com/2025/08/22/science/new-sail-backed-dinosaur-scli-intl-gbr",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/istiorachis-artist-impression-credit-james-brown-university-of-portsmouth.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-08-22T14:54:00Z",
+      "lang": "en",
+      "source": {
+        "id": "b7f8938851261c8403f75f40eb1d8645",
+        "name": "CNN",
+        "url": "https://www.cnn.com",
+        "country": "us"
+      }
     }
   ]
 }
